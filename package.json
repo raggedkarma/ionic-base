@@ -1,5 +1,5 @@
 {
-  "name": "inonic-base",
+  "name": "ionic-base",
   "version": "3.0.0",
   "description": "Ionic base application example",
   "main": "lib/index.js",
